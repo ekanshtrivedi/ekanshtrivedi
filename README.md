@@ -2,7 +2,7 @@
 
 I am currently pursuing my Master's in Data Science from the University of Chicago. I love working on projects related to Data Science and I have quite a few projects here, feel free to explore and check them out!
 
-## ✉️ Find me on:
+## ✉️ Let's Connect:
 
 
 <p align="center">
