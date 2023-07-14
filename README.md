@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Good to see you here, I'm Ekansh
+
+I am currently pursuing my Master's in Data Science from the University of Chicago. I love working on projects related to Data Science and I have quite a few projects here, feel free to explore and check them out!
 
 <!--
 **ekanshtrivedi/ekanshtrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
